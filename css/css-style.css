@@ -1,0 +1,38 @@
+.container {
+	display: flex;
+}
+
+.row {
+	display: flex;
+	max-width: 250px;
+
+}
+
+.input {
+	max-width: 250px;
+
+}
+
+.recks {
+	display: flex;
+	align-items: center;
+	margin-left: 50px;
+	max-width: 300px;
+
+}
+
+.col {
+	margin: 5px 0;
+	padding: 0;
+}
+
+.col_btn {
+	padding: 0;
+	text-align: center;
+	max-width: 250px;
+}
+
+.btn {
+	background-color: #6a7aba;
+	font-size: 20px;
+}
